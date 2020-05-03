@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa94629-9f25-435e-b2a7-ea7c7a86a019" name="Default Changelist" comment="" />
+    <list default="true" id="6fa94629-9f25-435e-b2a7-ea7c7a86a019" name="Default Changelist" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588481734193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1588482161305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588482161305</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,10 +86,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="35" key="CommitChangelistDialog2" timestamp="1588481733948">
+    <state x="307" y="35" key="CommitChangelistDialog2" timestamp="1588483088116">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="307" y="35" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1588481733948" />
+    <state x="307" y="35" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1588483088116" />
+    <state x="144" y="99" key="DiffContextDialog" timestamp="1588483078692">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="144" y="99" key="DiffContextDialog/0.23.1440.873@0.23.1440.873" timestamp="1588483078692" />
     <state x="547" y="363" key="Github.ShareDialog" timestamp="1588481198541">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
@@ -70,9 +102,13 @@
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="464" y="171" key="Github.UntrackedFilesDialog/0.23.1440.873@0.23.1440.873" timestamp="1588481250680" />
-    <state x="229" y="98" key="SettingsEditor" timestamp="1588481345057">
+    <state x="229" y="98" key="SettingsEditor" timestamp="1588483102102">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="229" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1588481345057" />
+    <state x="229" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1588483102102" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1588482184241">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.23.1440.873@0.23.1440.873" timestamp="1588482184241" />
   </component>
 </project>
