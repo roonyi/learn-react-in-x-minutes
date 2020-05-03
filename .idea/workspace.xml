@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa94629-9f25-435e-b2a7-ea7c7a86a019" name="Default Changelist" comment="">
+    <list default="true" id="6fa94629-9f25-435e-b2a7-ea7c7a86a019" name="Default Changelist" comment="Learn React Today Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -29,6 +29,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TodoList" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bNlHDQtxvqCvN3nxrg7Yu66TsV" />
@@ -40,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,7 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1588483884554</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Learn React Today Commit">
+      <created>1588536673225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588536673225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Learn React Today Commit">
+      <created>1588547634985</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588547634985</updated>
+    </task>
+    <task id="LOCAL-00009" summary="testing TodoList Branch">
+      <created>1588547763835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588547763835</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -111,22 +137,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <MESSAGE value="test robert commit" />
     <MESSAGE value="test quit robert commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test quit robert commit" />
+    <MESSAGE value="Learn React Today Commit" />
+    <MESSAGE value="testing TodoList Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing TodoList Branch" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="605" y="329" key="#Notifications" timestamp="1588547320871">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="605" y="329" key="#Notifications/0.23.1440.873@0.23.1440.873" timestamp="1588547320871" />
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588537063020">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.873@0.23.1440.873" timestamp="1588537063020" />
     <state x="484" y="262" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1588534666256">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="484" y="262" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.23.1440.873@0.23.1440.873" timestamp="1588534666256" />
-    <state x="307" y="35" key="CommitChangelistDialog2" timestamp="1588483884385">
+    <state x="307" y="35" key="CommitChangelistDialog2" timestamp="1588547763605">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="307" y="35" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1588483884385" />
+    <state x="307" y="35" key="CommitChangelistDialog2/0.23.1440.873@0.23.1440.873" timestamp="1588547763605" />
     <state x="144" y="99" width="1152" height="698" key="DiffContextDialog" timestamp="1588483779303">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
@@ -139,13 +176,17 @@
       <screen x="0" y="23" width="1440" height="873" />
     </state>
     <state x="464" y="171" key="Github.UntrackedFilesDialog/0.23.1440.873@0.23.1440.873" timestamp="1588481250680" />
-    <state x="229" y="98" key="SettingsEditor" timestamp="1588534874735">
+    <state x="229" y="98" key="SettingsEditor" timestamp="1588546652657">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="229" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1588534874735" />
-    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1588483888937">
+    <state x="229" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1588546652657" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1588547767233">
       <screen x="0" y="23" width="1440" height="873" />
     </state>
-    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.23.1440.873@0.23.1440.873" timestamp="1588483888937" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.23.1440.873@0.23.1440.873" timestamp="1588547767233" />
+    <state x="474" y="179" key="git4idea.branch.GitSmartOperationDialog" timestamp="1588547731249">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="474" y="179" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.873@0.23.1440.873" timestamp="1588547731249" />
   </component>
 </project>
